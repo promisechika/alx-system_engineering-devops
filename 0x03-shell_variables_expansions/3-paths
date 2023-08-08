@@ -1,2 +1,2 @@
-#!/binn/bash
-echo $((` echo $PATH | grep ":/" | wc -l ` +1))
+#!/bin/bash
+echo $((` echo $PATH | grep ":/" | WC -l ` +1))
